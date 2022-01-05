@@ -1,5 +1,5 @@
 exports.mod = () => {
-	//I'm taking some code from JUGADOR123's AIO for the cached part until I figure out a better way to do it.
+	//I'm taking some code from JUGADOR123's AIO for the cached part until I have the time to do it better.
     const config = require("../config.js");
     let shortName = config.shortName;
     let hprod = fileIO.readParsed(`user/cache/hideout_production.json`);
