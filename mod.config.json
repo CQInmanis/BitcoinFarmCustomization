@@ -1,0 +1,11 @@
+{
+	"name": "BTCFarmCustomization",
+	"author": "CQInmanis",
+	"version": "0.1.0",
+	"license": "MIT",
+	"src": {
+		"src/tamper.js": "TamperModLoad",
+        "src/cached.js": "CacheModLoad"
+	},
+	"required": []
+}
