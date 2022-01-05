@@ -1,5 +1,5 @@
 # CQInmanis-BTCFarmCustomization-0.1.0
-Simple mod for Altered Escape (12.9 for now. 12.12 needs testing) that allows the user to have more control over the game's bitcoin farm.
+Simple mod for Altered Escape (12.9 2.1.0 for now. 12.12 needs testing) that allows the user to have more control over the game's bitcoin farm.
 
 ## Features 
 * Bitcoin production timer: controls the base amount of time (before GPUs) 1 physical bitcoin takes to be produced.
